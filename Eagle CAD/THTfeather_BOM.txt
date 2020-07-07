@@ -1,0 +1,18 @@
+Partlist exported from /Users/daveploeger/code/THTFeather/Eagle CAD/THTfeather.sch at 07/07/20 23:50
+
+Part Value                  Device                            Package         Description                MPN         VALUE      
+C1   22pF                   C-EU025-025X050                   C025-025X050    CAPACITOR, European symbol                        
+C2   22pF                   C-EU025-025X050                   C025-025X050    CAPACITOR, European symbol                        
+C3   100nF                  C-EU025-025X050                   C025-025X050    CAPACITOR, European symbol                        
+C4   100nF                  C-EU025-025X050                   C025-025X050    CAPACITOR, European symbol                        
+LED1 orange                 LED3MM                            LED3MM          LED                                               
+MS1  FEATHERWING_NODIM      FEATHERWING_NODIM                 FEATHERWING_DIM                                                   
+Q1   LE33CD                 78L33                             TO92                                                              
+Q2   ATMEGA168PROUND        ATMEGA168PROUND                   DIL28-3-ROUND   MICROCONTROLLER                                   
+R1   68R                    R-EU_0204/5                       0204/5          RESISTOR, European symbol                         
+R2   68R                    R-EU_0204/5                       0204/5          RESISTOR, European symbol                         
+R3   4k7                    R-EU_0204/5                       0204/5          RESISTOR, European symbol                         
+R4   1k5                    R-EU_0204/5                       0204/5          RESISTOR, European symbol                         
+R5   1k5                    R-EU_0204/5                       0204/5          RESISTOR, European symbol                         
+USB1 ST-USB-009A            DIP-USB-B-TYPE-FMAL(4+2P-2.5-90D) USB4+2-2.5-90D  320010018                  ST-USB-009A ST-USB-009A
+X1   CRYSTALS-NOGND-HC49/4H CRYSTALS-NOGND-HC49/4H            HC49            CRYSTALS CAN NOT GROUNDED                         
